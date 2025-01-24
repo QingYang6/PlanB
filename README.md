@@ -1,4 +1,5 @@
 ## PlanB: SWD(Self-supervised Waterbody Detection) SAR Edition
+Flood inundation mapping tool with Synthetic Aperture Radar (SAR) images.
 
 ## 1 Requirements
 ```
